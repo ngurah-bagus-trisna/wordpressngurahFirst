@@ -1,1 +1,1 @@
-dî_<?php exit; ?>a:1:{s:7:"content";s:140:"{"common.install":1603325074,"common.install_version":"0.15.1","license.status":"no_key","license.next_check":1603757074,"license.terms":""}";}
+Wï_<?php exit; ?>a:1:{s:7:"content";s:140:"{"common.install":1603325074,"common.install_version":"0.15.1","license.status":"no_key","license.next_check":1603757074,"license.terms":""}";}
