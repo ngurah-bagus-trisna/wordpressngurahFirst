@@ -1,4 +1,4 @@
-PLí_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"135";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-22 10:47:31";s:13:"post_date_gmt";s:19:"2020-10-22 02:47:31";s:12:"post_content";s:3537:"<!-- wp:paragraph -->
+†Uí_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:135;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-22 10:47:31";s:13:"post_date_gmt";s:19:"2020-10-22 02:47:31";s:12:"post_content";s:3537:"<!-- wp:paragraph -->
 <p>Mungkin baru mendengar kata ‚ÄúLinux‚Äù, sudah terbayang hal-hal yang sulit dan ribet. Sebenarnya enggak ribet kok!.</p>
 <!-- /wp:paragraph -->
 
@@ -56,4 +56,4 @@ PLí_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"135";s:11:
 
 <!-- wp:paragraph -->
 <p>Memilih OS linux memanglah hal sulit, semoga dengan 3 referensi diatas bisa membuat tidak takut lagi dengan OS ‚ÄúLinux‚Äù :).</p>
-<!-- /wp:paragraph -->";s:10:"post_title";s:19:"Linux susah banget?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:18:"linux-susah-banget";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-10-22 10:47:38";s:17:"post_modified_gmt";s:19:"2020-10-22 02:47:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:39:"http://localhost/wordpressngurah/?p=135";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
+<!-- /wp:paragraph -->";s:10:"post_title";s:19:"Linux susah banget?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:18:"linux-susah-banget";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-10-22 10:47:38";s:17:"post_modified_gmt";s:19:"2020-10-22 02:47:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://localhost/wordpressngurah/?p=135";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

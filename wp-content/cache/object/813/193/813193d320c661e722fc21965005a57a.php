@@ -1,0 +1,1 @@
+šU’_<?php exit; ?>a:1:{s:7:"content";s:69:"http://localhost/wordpressngurah/wp-includes/images/media/default.png";}
