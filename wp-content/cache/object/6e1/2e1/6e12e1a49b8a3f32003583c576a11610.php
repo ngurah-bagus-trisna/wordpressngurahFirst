@@ -1,4 +1,4 @@
-Cî_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"217";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-21 10:25:46";s:13:"post_date_gmt";s:19:"2020-10-21 10:25:46";s:12:"post_content";s:3433:"<!-- wp:paragraph {"hasCustomCSS":true} -->
+H’_<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"217";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-10-21 10:25:46";s:13:"post_date_gmt";s:19:"2020-10-21 10:25:46";s:12:"post_content";s:3433:"<!-- wp:paragraph {"hasCustomCSS":true} -->
 <p>Di css 3, membuat lingkaran tak lagi sulit. Kita hanya menambahkan properties ke elemen yang akan kita ubah menjadi lingkaran. Untuk membuat lingkaran, kita hanya perlu menambahkan <strong>border-radius: value %/px;</strong> Artinya kita dapat menambahkan satuan value menurut % atau px.</p>
 <!-- /wp:paragraph -->
 
